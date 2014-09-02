@@ -1,3 +1,3 @@
-var hello = "Hello\nWorld"
+console.log("Hello\n")
+console.log("world\n")
 
-hello

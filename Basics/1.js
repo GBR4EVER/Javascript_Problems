@@ -1,3 +1,4 @@
 var hello = "Hello World!"
 
-hello
+console.log(hello)
+
