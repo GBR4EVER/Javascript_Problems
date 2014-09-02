@@ -1,0 +1,11 @@
+//  +=   assigns the result of the addition.
+//  -=   assigns the result of the subtraction.
+//  *=   assigns the result of the multiplication
+//  /=   assigns the result of the division.
+//  %=   assigns the remainder of the division.
+//  &=   assigns the result of the logical AND.
+//  |=   assigns the result of the logical OR.
+//  ^=   assigns the result of the logical XOR.
+//  <<=  assigns the result of the signed left bit shift.
+//  >>=  assigns the result of the signed right bit shift.
+//  >>>= assigns the result of the unsigned right bit shift.
